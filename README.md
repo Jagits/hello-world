@@ -1,2 +1,2 @@
 # hello-world
-My ideas about how make it a better world
+My ideas about how to make it a better world
